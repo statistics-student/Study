@@ -30,7 +30,7 @@
     "fs-extra": "^7.0.0",
     "gh-pages": "^2.0.0",
     "loading-cli": "^1.0.8",
-    "marked": "^0.6.2",
+    "marked": "^0.7.0",
     "path": "^0.12.7",
     "prismjs": "^1.16.0",
     "sqlite3": "^4.0.6",
